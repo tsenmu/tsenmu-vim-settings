@@ -19,12 +19,4 @@ syntax on
 colorscheme railscasts 
 highlight LineNr ctermfg=White
 
-let g:user_emmet_settings = {
-\   'php' : {
-\        'extends' : 'html',
-\        'filters' : 'c',
-\    },
-\    'xml' : {
-\        'extends' : 'html',
-\    },
-\}
+setl fo=aw2tq
