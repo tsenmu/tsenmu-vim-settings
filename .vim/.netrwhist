@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/tsenmu/Work/ogldev/src/04'
 let g:netrw_dirhist_2='/home/j49zheng/Courses/cs889/week01_Human_Computation_I'
+let g:netrw_dirhist_3='/Users/tsenmu/Documents/modeling.key'
+let g:netrw_dirhist_4='/Users/tsenmu/Work/lyra-alpha/.git'
